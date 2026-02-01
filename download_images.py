@@ -2,9 +2,7 @@ import urllib.request
 import os
 
 images = {
-    "premium_hardwood.jpg": "https://images.unsplash.com/photo-1542601906990-b4d3fb77c35e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    "biomass_fuel.jpg": "https://plus.unsplash.com/premium_photo-1675865445770-432a63273292?q=80&w=2070&auto=format&fit=crop",
-    "landscape_mulch.jpg": "https://images.unsplash.com/photo-1616782046808-8124b6e82846?q=80&w=2070&auto=format&fit=crop",
+    "premium_hardwood.jpg": "https://media.istockphoto.com/id/1172535025/photo/smoking-wood-chips-for-bbq-on-white-background.jpg?s=1024x1024&w=is&k=20&c=5y8wuyUJKGdkjoRHc6ByxYWlMESF0om6ZjxWCDAC9g0=",
     "fine_sawdust.jpg": "https://images.unsplash.com/photo-1595856417769-e763131e5057?q=80&w=2070&auto=format&fit=crop"
 }
 
